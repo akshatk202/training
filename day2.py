@@ -155,10 +155,10 @@
 #print(x)
 #print(type(x))
 
-#x=("apple", "banana", "orange")
-#y=("orange",)
-#x+=y
-#print(x)
+x=("apple", "banana", "orange")
+y=("orange",)
+x+=y
+print(x)
 
 # x = ("apple", "banana", "orange")
 # del x
